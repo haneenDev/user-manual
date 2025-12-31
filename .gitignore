@@ -1,4 +1,5 @@
-# Ignore all folders except pages-plain
+# Ignore all folders except pages-plain and images
 /*
 !/pages-plain/
+!/images/
 !/.gitignore
